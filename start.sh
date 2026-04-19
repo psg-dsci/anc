@@ -6,4 +6,4 @@ pip3 install flask
 
 pkill -f app.py || true
 
-nohup python3 app.py &
+sudo nohup python3 app.py &
